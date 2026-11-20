@@ -34,8 +34,7 @@ Un lanceur (Windows, macOS Apple Silicon, Linux x86_64) qui fait tourner tes pro
 | 3 (GBA) | Rubis, Saphir, Émeraude, Rouge Feu, Vert Feuille | mGBA | oui | oui | oui | oui |
 | 4 (DS) | Diamant, Perle, Platine, HeartGold, SoulSilver | melonDS | oui | oui | oui | oui |
 | 5 (DS) | Noire, Blanche, Noire 2, Blanche 2 | melonDS | oui | oui | oui | oui |
-| 6 (3DS) | X, Y, Rubis Oméga | Azahar | oui | oui | oui | oui |
-| 6 (3DS) | Saphir Alpha | Azahar | oui | oui | pas encore (affronte l'équipe de l'autre, menée par le jeu) | oui |
+| 6 (3DS) | X, Y, Rubis Oméga, Saphir Alpha | Azahar | oui | oui | oui | oui |
 | 7 (3DS) | Soleil, Lune, Ultra-Soleil, Ultra-Lune | Azahar | oui, avec le vrai modèle 3D de l'ami | oui | oui | oui |
 
 Remarques :

@@ -34,8 +34,7 @@ A launcher (Windows, macOS Apple Silicon, Linux x86_64) that runs your own copie
 | 3 (GBA) | Ruby, Sapphire, Emerald, FireRed, LeafGreen | mGBA | yes | yes | yes | yes |
 | 4 (DS) | Diamond, Pearl, Platinum, HeartGold, SoulSilver | melonDS | yes | yes | yes | yes |
 | 5 (DS) | Black, White, Black 2, White 2 | melonDS | yes | yes | yes | yes |
-| 6 (3DS) | X, Y, Omega Ruby | Azahar | yes | yes | yes | yes |
-| 6 (3DS) | Alpha Sapphire | Azahar | yes | yes | not yet (fights the other team, run by the game) | yes |
+| 6 (3DS) | X, Y, Omega Ruby, Alpha Sapphire | Azahar | yes | yes | yes | yes |
 | 7 (3DS) | Sun, Moon, Ultra Sun, Ultra Moon | Azahar | yes, with the real 3D model of your friend | yes | yes | yes |
 
 Notes:
