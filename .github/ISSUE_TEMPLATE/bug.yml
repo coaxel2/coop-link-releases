@@ -1,0 +1,43 @@
+name: Bug report
+description: Something does not work as it should.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Please do not ask for games, ROMs or links to them: such issues are closed without an answer.
+  - type: input
+    id: version
+    attributes:
+      label: Launcher version
+      description: Settings, at the bottom ("version 2026.11.21.3").
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: System
+      options: [Windows, macOS, Linux]
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game and region
+      description: For example "Emerald, French".
+    validations:
+      required: true
+  - type: dropdown
+    id: feature
+    attributes:
+      label: What is wrong?
+      options: [See each other, Trade, Battle, Join a friend, Friends list, Launcher, Other]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What happened
+      description: What you did, what you expected, what you saw. A screenshot helps a lot.
+    validations:
+      required: true
