@@ -12,9 +12,9 @@
 
 *Deux joueurs dans Pokémon Émeraude, chacun sur son propre jeu : ils se voient (noms au-dessus de la tête), le menu A propose Échanger, Combattre, Saluer, puis un vrai combat 1 contre 1 démarre. Capturé hors écran dans le labo de test.*
 
-[![Windows](https://img.shields.io/badge/Télécharger-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://github.com/coaxel2/pokemon-coop-releases/releases/latest)
-[![macOS](https://img.shields.io/badge/Télécharger-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://github.com/coaxel2/pokemon-coop-releases/releases?q=mac-&expanded=true)
-[![Linux](https://img.shields.io/badge/Télécharger-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://github.com/coaxel2/pokemon-coop-releases/releases?q=linux-&expanded=true)
+[![Windows](https://img.shields.io/badge/Télécharger-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://github.com/coaxel2/coop-link-releases/releases/latest)
+[![macOS](https://img.shields.io/badge/Télécharger-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://github.com/coaxel2/coop-link-releases/releases?q=mac-&expanded=true)
+[![Linux](https://img.shields.io/badge/Télécharger-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://github.com/coaxel2/coop-link-releases/releases?q=linux-&expanded=true)
 
 > **Projet de fans, sans lien avec Nintendo, Game Freak, Creatures ni The Pokémon Company, qui ne l'approuvent pas.**
 > Pokémon est une marque de ses propriétaires. **Aucune ROM, aucun BIOS, aucun firmware, aucune clé de chiffrement et aucune sauvegarde n'est fournie, liée ou distribuée ici.** Tu utilises tes propres jeux, acquis légalement.

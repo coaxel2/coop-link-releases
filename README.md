@@ -12,9 +12,9 @@ English | [Français](README.fr.md)
 
 *Two players in Pokemon Emerald, each on their own game: they see each other (names above their heads), the A menu offers Trade, Battle, Greet, then a real 1v1 battle starts. Captured headless from the test lab.*
 
-[![Windows](https://img.shields.io/badge/Download-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://github.com/coaxel2/pokemon-coop-releases/releases/latest)
-[![macOS](https://img.shields.io/badge/Download-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://github.com/coaxel2/pokemon-coop-releases/releases?q=mac-&expanded=true)
-[![Linux](https://img.shields.io/badge/Download-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://github.com/coaxel2/pokemon-coop-releases/releases?q=linux-&expanded=true)
+[![Windows](https://img.shields.io/badge/Download-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)](https://github.com/coaxel2/coop-link-releases/releases/latest)
+[![macOS](https://img.shields.io/badge/Download-macOS-000000?logo=apple&logoColor=white&style=for-the-badge)](https://github.com/coaxel2/coop-link-releases/releases?q=mac-&expanded=true)
+[![Linux](https://img.shields.io/badge/Download-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://github.com/coaxel2/coop-link-releases/releases?q=linux-&expanded=true)
 
 > **Fan project. Not affiliated with, endorsed by or connected to Nintendo, Game Freak, Creatures or The Pokemon Company.**
 > Pokemon is a trademark of its owners. **No ROM, no BIOS, no firmware, no encryption key and no save file is included, linked or distributed here.** You use your own legally owned games.

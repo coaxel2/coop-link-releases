@@ -32,7 +32,7 @@ jobs:
           fi
       - name: Paquet publié
         run: |
-          curl -fsSL -o p.tar.gz "https://github.com/coaxel2/pokemon-coop-releases/releases/download/linux-${{ inputs.version }}/Pokemon-Coop-Linux.tar.gz"
+          curl -fsSL -o p.tar.gz "https://github.com/coaxel2/coop-link-releases/releases/download/linux-${{ inputs.version }}/Pokemon-Coop-Linux.tar.gz"
           tar -xzf p.tar.gz
           ls -la "Pokemon Coop" "Pokemon Coop/app" | head -n 40
       - name: Bibliothèques manquantes
