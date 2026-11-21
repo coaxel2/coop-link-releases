@@ -1,4 +1,8 @@
-# Pokemon Co-op
+<p align="center"><img src="assets/logo.png" width="128" alt="Coop Link logo"></p>
+
+<h1 align="center">Coop Link</h1>
+
+<p align="center"><i>Formerly Pokemon Co-op</i></p>
 
 **Play the classic Pokemon games together with friends: see each other on the map, trade, fight real 1v1 battles online and join a friend, in 28 games from Game Boy to 3DS.**
 
@@ -24,6 +28,7 @@ A launcher (Windows, macOS Apple Silicon, Linux x86_64) that runs your own copie
 - **Battle**: face a friend, press A, pick **Battle**. A real 1v1, each player choosing their own moves and switches, nothing kept afterwards (no XP, no money lost, your team comes back as before).
 - **Join**: hold L and R, pick a friend, and you are taken next to them (only to places you have already visited).
 - **Make the game yours**: randomizer and "game code" so your friend gets the same game, rebalancing, patches, intro skip, separate saves with automatic backups, battle info (type effectiveness and estimated damage on DS), automatic updates.
+- **Friends**: create an account in the launcher, add friends by their name and see who is online, since when, and what they are playing.
 - **Mods you can add to a running game**: two-player Nuzlocke / Soul Link, level cap, roulette, blackjack.
 
 ## Games and features
@@ -85,7 +90,7 @@ Open an issue with your system, the launcher version, the game, and what happene
 
 ## Credits and licenses
 
-Pokemon Co-op stands on the shoulders of three open source emulators, modified for multiplayer:
+Coop Link stands on the shoulders of three open source emulators, modified for multiplayer:
 
 - [melonDS](https://github.com/melonDS-emu/melonDS) (Nintendo DS), GPL v3, with the Project PM fork as a base.
 - [mGBA](https://github.com/mgba-emu/mgba) (Game Boy and Game Boy Advance), MPL 2.0.

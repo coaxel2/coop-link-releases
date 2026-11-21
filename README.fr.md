@@ -1,4 +1,8 @@
-# Pokémon Co-op
+<p align="center"><img src="assets/logo.png" width="128" alt="Logo de Coop Link"></p>
+
+<h1 align="center">Coop Link</h1>
+
+<p align="center"><i>Anciennement Pokémon Co-op</i></p>
 
 **Joue aux Pokémon classiques avec tes amis : on se voit sur la carte, on échange, on se combat en vrai 1 contre 1 en ligne et on rejoint un ami, sur 28 jeux de la Game Boy à la 3DS.**
 
@@ -24,6 +28,7 @@ Un lanceur (Windows, macOS Apple Silicon, Linux x86_64) qui fait tourner tes pro
 - **Combattre** : face à un ami, A puis **Combattre**. Un vrai 1 contre 1, chacun choisit ses attaques et ses remplaçants, rien n'en reste après (pas d'expérience, pas d'argent perdu, l'équipe revient comme avant).
 - **Rejoindre** : L et R maintenus, choisis un ami, et tu arrives à côté de lui (seulement dans un lieu déjà visité).
 - **Personnaliser** : randomiseur et « code de partie » pour que l'ami ait le même jeu, rééquilibrage, patchs, introduction passée, sauvegardes séparées avec copies automatiques, infos de combat (efficacité et dégâts estimés sur DS), mises à jour automatiques.
+- **Amis** : crée un compte dans le lanceur, ajoute tes amis par leur pseudo et vois qui est en ligne, depuis quand, et à quoi il joue.
 - **Mods ajoutables en cours de partie** : Nuzlocke / Soul Link à deux, niveau plafond, roulette, blackjack.
 
 ## Jeux et fonctions
@@ -85,7 +90,7 @@ Ouvre une issue avec ton système, la version du lanceur, le jeu et ce qui s'est
 
 ## Crédits et licences
 
-Pokémon Co-op repose sur trois émulateurs libres, modifiés pour le multijoueur :
+Coop Link repose sur trois émulateurs libres, modifiés pour le multijoueur :
 
 - [melonDS](https://github.com/melonDS-emu/melonDS) (Nintendo DS), GPL v3, avec le fork Project PM comme base.
 - [mGBA](https://github.com/mgba-emu/mgba) (Game Boy et Game Boy Advance), MPL 2.0.
