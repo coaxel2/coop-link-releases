@@ -11,7 +11,7 @@ on:
         description: "Version (celle de Update.cpp, sans le v)"
         required: true
       pokemon:
-        description: "Commit ou branche de coaxel2/Pokemon"
+        description: "Commit ou branche de coaxel2/pokemon-coop-link"
         default: main
       melonds:
         description: "Commit ou branche de coaxel2/melonds-coop"
@@ -44,7 +44,7 @@ jobs:
         if: steps.exists.outputs.yes != '1'
         uses: actions/checkout@v4
         with:
-          repository: coaxel2/Pokemon
+          repository: coaxel2/pokemon-coop-link
           ref: ${{ inputs.pokemon }}
           ssh-key: ${{ secrets.POKEMON_DEPLOY_KEY }}
           path: pokemon
@@ -104,7 +104,7 @@ jobs:
         if: steps.exists.outputs.yes != '1'
         uses: actions/checkout@v4
         with:
-          repository: coaxel2/Pokemon
+          repository: coaxel2/pokemon-coop-link
           ref: ${{ inputs.pokemon }}
           ssh-key: ${{ secrets.POKEMON_DEPLOY_KEY }}
           path: pokemon
